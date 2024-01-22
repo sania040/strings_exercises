@@ -1,0 +1,19 @@
+# Question 1: Concetinate two strings and print the Output
+# Question 2: Write script to print the reverse of string
+# Question 3: Write a program to check if a string is palidrome
+# Question 4: Write a script to count the number of vowels in a string
+# Question 5: Write a program to take user name as input and print its initials
+# Question 6: Write a program to delete the spaces from the string
+# Question 7: Write a program to input user's email and print the domain of the email.
+# Question 8: Implement a program whcih counts the accurrances of specific character in a string
+# Question 9: Implement a program that capitalizes the first letter of each word in a sentence
+# Question 10 : Write a program that checks if two given strings are anagrams of each other (contain the same characters with the same frequencies).
+# Question 11: Write a program that checks if one string is a rotation of another.
+# Question 12: Write a program for word frequency counter.
+# Question 13: String Compression
+# Question 14: Camel case to underscore
+
+
+
+
+
